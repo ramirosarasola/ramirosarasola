@@ -1,10 +1,10 @@
 # Bienvenido a mi perfil.👋 Soy Ramiro Sarasola. 🎉
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirosarasp;a&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirosarasola&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" />
 <p>Software Developer</p>
 
 ### Estudios
-<p>Técnico en Programacion. <a href="https://www.frgp.utn.edu.ar/">Universidad Tecnologica Nacional (UTN) - Argentina</a>.🌴</p>
-<p>Certified Tech Developer. <a href="https://www.digitalhouse.com/">Digital House</a>.💻</p
+<p>Técnico en Programacion. <a href="https://www.frgp.utn.edu.ar/"> Universidad Tecnologica Nacional (UTN) - Argentina</a>.🎓</p>
+<p>Certified Tech Developer. <a href="https://www.digitalhouse.com/"> Digital House</a>.💻</p
 <!--
 ### Contacta conmigo
 [![Linkedin: Ramiro Jose Sarasola](https://img.shields.io/badge/-RamiroS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-jaime-moreno-665112227/)](https://www.linkedin.com/in/rafael-jaime-moreno-665112227)
